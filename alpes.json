@@ -1,0 +1,578 @@
+{
+  "mountains": [
+    {
+      "height": "4809",
+      "name": "Mont Blanc",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "8 août 1786 par Jacques Balmat et Michel Paccard31",
+      "location": "45° 49′ 57″ N, 6° 51′ 52″ E"
+    },
+    {
+      "height": "4748",
+      "name": "Mont Blanc de Courmayeur",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "31 juillet 1877 par James Eccles avec Michel-Clément Payot et Alphonse Payot (première du mont Blanc par l'arête de Peuterey)32",
+      "location": "45° 49′ 44″ N, 6° 52′ 10″ E"
+    },
+    {
+      "height": "4634",
+      "name": "Pointe Dufour (point culminant du mont Rose)",
+      "range": "Alpes valaisannes",
+      "ascent": "1er août 1855 par Charles Hudson, J. Birkbeck, C. Smyth, J. G. Smyth, E. J. Stevenson avec Ulrich Lauener, J. et M. Zumtaugwald et un porteur31",
+      "location": "45° 56′ 13″ N, 7° 52′ 04″ E"
+    },
+    {
+      "height": "4612",
+      "name": "Nordend (mont Rose)",
+      "range": "Alpes valaisannes",
+      "ascent": "26 août 1861 par T.F. et Edward N. Buxton, John Jermyn Cowell avec Michel-Ambroise Payot31",
+      "location": "45° 56′ 30″ N, 7° 52′ 12″ E"
+    },
+    {
+      "height": "4563",
+      "name": "Zumsteinspitze (mont Rose)",
+      "range": "Alpes valaisannes",
+      "ascent": "1er août 1820 par Joseph et M. Zumstein, Molinatti, Marty, Castel, J.-N. Vincent31",
+      "location": "45° 55′ 55″ N, 7° 52′ 17″ E"
+    },
+    {
+      "height": "4554",
+      "name": "Pointe Gnifetti ou Signalkuppe (mont Rose)",
+      "range": "Alpes valaisannes",
+      "ascent": "9 août 1842 par Giovanni Gnifetti, G. Farinetti, C. Grober, C. Ferraris, G. et G. Giordani31",
+      "location": "45° 55′ 38″ N, 7° 52′ 37″ E"
+    },
+    {
+      "height": "4545",
+      "name": "Dom des Mischabel",
+      "range": "Alpes valaisannes",
+      "ascent": "11 septembre 1858 par L. Davies avec Johann Zumtaugwald, Johann Kronig et Hieronymus Brantschen31",
+      "location": "46° 05′ 52″ N, 7° 51′ 36″ E"
+    },
+    {
+      "height": "4527",
+      "name": "Lyskamm oriental",
+      "range": "Alpes valaisannes",
+      "ascent": "19 août 1861 par William Edward Hall, J.F. Hardy, J.A. Hudson, C.H. Pilkington, A.C. Ramsay, T. Rennison, F. Sibson et R.M. Stephenson avec Franz Josef Lochmatter, Stefan Zumtaugwald, Jean-Pierre Cachat, Josef-Marie et Peter Perren31",
+      "location": "45° 55′ 21″ N, 7° 50′ 08″ E"
+    },
+    {
+      "height": "4505",
+      "name": "Weisshorn",
+      "range": "Alpes valaisannes",
+      "ascent": "19 août 1861 par John Tyndall avec Johann Joseph Bennen et Ulrich Wenger31",
+      "location": "46° 06′ 05″ N, 7° 42′ 58″ E"
+    },
+    {
+      "height": "4491",
+      "name": "Täschhorn",
+      "range": "Alpes valaisannes",
+      "ascent": "31 juillet 1862, par Llewelyn Davies et J.H. Hayward avec Stefan et Johann Zumtaugwald et Peter-Josef Summermatter31",
+      "location": "46° 05′ 01″ N, 7° 51′ 26″ E"
+    },
+    {
+      "height": "4481",
+      "name": "Lyskamm occidental",
+      "range": "Alpes valaisannes",
+      "ascent": "16 août 1864 par Leslie Stephen et E.N.Buxton avec Jakob Anderegg et Franz Biner31",
+      "location": "45° 55′ 37″ N, 7° 49′ 15″ E"
+    },
+    {
+      "height": "4478",
+      "name": "Cervin",
+      "range": "Alpes valaisannes",
+      "ascent": "14 juillet 1865 par Edward Whymper, Charles Hudson, Douglas Hadow et Lord Francis Douglas avec Michel Croz, Peter Taugwalder père et fils31",
+      "location": "45° 58′ 35″ N, 7° 39′ 30″ E"
+    },
+    {
+      "height": "4OOO",
+      "name": "Mont Maudit",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "12 septembre 1878 par Henry Seymour Hoare et William Edward Davidson avec Johann Jaun et Johann von Bergen31",
+      "location": "45° 50′ 52″ N, 6° 52′ 33″ E"
+    },
+    {
+      "height": "4460",
+      "name": "Pointe Louis Amédée",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "20 juillet 1901 par G.B. et G.F. Gugliermina avec Joseph Brocherel (première du mont Blanc par l'arête du Brouillard)32",
+      "location": "45° 49′ 19″ N, 6° 51′ 55″ E"
+    },
+    {
+      "height": "4436",
+      "name": "Pointe Parrot (mont Rose)",
+      "range": "Alpes valaisannes",
+      "ascent": "16 août 1863, par Reginald S. Macdonald, Florence Crauford Grove, Montagu Woodmass et William Edward Hall avec Melchior Anderegg et Peter Perren (le 16 juillet 1862, A. W. Moore et H.B. George avec Christian Almer et M. Zumtaugwald étaient passés à proximité du sommet)33",
+      "location": "45° 55′ 11″ N, 7° 52′ 17″ E"
+    },
+    {
+      "height": "4357",
+      "name": "Dent Blanche",
+      "range": "Alpes valaisannes",
+      "ascent": "18 juillet 1862 par William Wigram et Thomas Stuart Kennedy avec Jean-Baptiste Croz et Johann Kronig31",
+      "location": "46° 02′ 03″ N, 7° 36′ 43″ E"
+    },
+    {
+      "height": "4342",
+      "name": "Ludwigshöhe (mont Rose)",
+      "range": "Alpes valaisannes",
+      "ascent": "25 août 1822 par Franz Ludwig von Welden et des aides33",
+      "location": "45° 55′ 00″ N, 7° 51′ 50″ E"
+    },
+    {
+      "height": "4327",
+      "name": "Nadelhorn",
+      "range": "Alpes valaisannes",
+      "ascent": "16 septembre 1858 par Franz Andenmatten, B. Epiney, Aloys Supersaxo et J. Zimmermann33",
+      "location": "46° 06′ 32″ N, 7° 51′ 50″ E"
+    },
+    {
+      "height": "4322",
+      "name": "Corno Nero (mont Rose)",
+      "range": "Alpes valaisannes",
+      "ascent": "18 août 1873, par Marco Maglionini, Albert de Rothschild avec Nicolaus et Peter Knubel, Édouard Cupelin et trois porteurs34",
+      "location": "45° 54′ 54″ N, 7° 51′ 43″ E"
+    },
+    {
+      "height": "4314",
+      "name": "Grand Combin de Grafeneire (point culminant du Grand Combin)",
+      "range": "Alpes valaisannes",
+      "ascent": "30 juillet 1859 par C. Sainte Claire de Ville avec Daniel, Emanuel et Gaspard Ballay, et B. Dorsaz31",
+      "location": "45° 56′ 15″ N, 7° 17′ 57″ E"
+    },
+    {
+      "height": "4306",
+      "name": "Dôme du Goûter",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "17 septembre 1784 par Jean-Marie Couttet et François Cuidet32",
+      "location": "45° 50′ 34″ N, 6° 50′ 36″ E"
+    },
+    {
+      "height": "4294",
+      "name": "Lenzspitze",
+      "range": "Alpes valaisannes",
+      "ascent": "août 1870 par Clinton Thomas Dent avec Alexandre Burgener et Franz Burgener33",
+      "location": "46° 06′ 17″ N, 7° 52′ 07″ E"
+    },
+    {
+      "height": "4274",
+      "name": "Finsteraarhorn",
+      "range": "Alpes bernoises",
+      "ascent": "16 août 1812 par R. Meyer avec A. Volker, J. Bortis, K. Huber, A. Abbuhl, ou 10 août 1829 par J. Leuthold et H. Wahren avec deux guides31",
+      "location": "46° 32′ 15″ N, 8° 07′ 34″ E"
+    },
+    {
+      "height": "4248",
+      "name": "Mont Blanc du Tacul",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "8 août 1855 par un ou plusieurs membres de l'expédition de Charles Hudson et Edward Shirley Kennedy31",
+      "location": "45° 51′ 24″ N, 6° 53′ 16″ E"
+    },
+    {
+      "height": "4243",
+      "name": "Grand Pilier d'Angle",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "31 juillet 1877 par James Eccles avec Michel-Clément Payot et Alphonse Payot (première du mont Blanc par l'arête de Peuterey)32",
+      "location": "45° 49′ 40″ N, 6° 52′ 48″ E"
+    },
+    {
+      "height": "4241",
+      "name": "Stecknadelhorn",
+      "range": "Alpes valaisannes",
+      "ascent": "8 août 1887 par Oscar Eckenstein avec Matthias Zurbriggen33",
+      "location": "46° 06′ 42″ N, 7° 51′ 34″ E"
+    },
+    {
+      "height": "4228",
+      "name": "Castor",
+      "range": "Alpes valaisannes",
+      "ascent": "23 août 1861 par William Mathews et F.W. Jacomb avec Michel Croz33",
+      "location": "45° 55′ 20″ N, 7° 47′ 35″ E"
+    },
+    {
+      "height": "4221",
+      "name": "Zinalrothorn",
+      "range": "Alpes valaisannes",
+      "ascent": "22 août 1864 Leslie Stephen, Florence Crauford Grove avec Jakob et Melchior Anderegg31",
+      "location": "46° 03′ 53″ N, 7° 41′ 24″ E"
+    },
+    {
+      "height": "4219",
+      "name": "Hohberghorn",
+      "range": "Alpes valaisannes",
+      "ascent": "Août 1869 par R. B. Heathcote, Franz Biner, Peter Perren et Peter Taugwalder fils33",
+      "location": "46° 06′ 45″ N, 7° 51′ 14″ E"
+    },
+    {
+      "height": "4215",
+      "name": "Pyramide Vincent (mont Rose)",
+      "range": "Alpes valaisannes",
+      "ascent": "5 août 1819 par J.-N. Vincent et trois compagnons31",
+      "location": "45° 54′ 29″ N, 7° 51′ 43″ E"
+    },
+    {
+      "height": "4208",
+      "name": "Pointe Walker des Grandes Jorasses (point culminant)",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "30 juin 1868 par Horace Walker, avec Melchior Anderegg, Johann Jaun et Julien Grange31",
+      "location": "45° 52′ 07″ N, 6° 59′ 17″ E"
+    },
+    {
+      "height": "4206",
+      "name": "Alphubel",
+      "range": "Alpes valaisannes",
+      "ascent": "9 août 1860 par Leslie Stephen, T.W. Hinchliff avec Melchior Anderegg et Peter Perren33",
+      "location": "46° 03′ 47″ N, 7° 51′ 50″ E"
+    },
+    {
+      "height": "4199",
+      "name": "Rimpfischhorn",
+      "range": "Alpes valaisannes",
+      "ascent": "9 septembre 1859 par Leslie Stephen et R. Living avec Melchior Anderegg et Johann Zumtaugwald33",
+      "location": "46° 01′ 23″ N, 7° 53′ 02″ E"
+    },
+    {
+      "height": "4195",
+      "name": "Aletschhorn",
+      "range": "Alpes bernoises",
+      "ascent": "18 juin 1859 Francis Fox Tuckett avec Johann Joseph Bennen, Peter Bohren, V. Tairraz31",
+      "location": "46° 27′ 54″ N, 7° 59′ 39″ E"
+    },
+    {
+      "height": "4190",
+      "name": "Strahlhorn",
+      "range": "Alpes valaisannes",
+      "ascent": "15 août 1854 par Christopher Smyth et Edmund J. Grenville avec Ulrich Lauener et Franz Andenmatten33",
+      "location": "46° 00′ 47″ N, 7° 54′ 06″ E"
+    },
+    {
+      "height": "4184",
+      "name": "Combin de Valsorey (Grand Combin)",
+      "range": "Alpes valaisannes",
+      "ascent": "16 septembre 1872 par J.H.Isler avec J. Gillioz35",
+      "location": "45° 56′ 17″ N, 7° 17′ 24″ E"
+    },
+    {
+      "height": "4184",
+      "name": "Pointe Whymper des Grandes Jorasses",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "24 juin 1865 par Edward Whymper avec Michel Croz, Christian Almer et Franz Biner31",
+      "location": "45° 52′ 06″ N, 6° 59′ 03″ E"
+    },
+    {
+      "height": "4179",
+      "name": "Dent d'Hérens",
+      "range": "Alpes valaisannes",
+      "ascent": "12 août 1863 par Florence Crauford Grove, William Edward Hall, Reginald Somerled Macdonald et Montagu Woodmass avec Melchior Anderegg, Peter Perren et Jean-Pierre Cachat31",
+      "location": "45° 58′ 11″ N, 7° 36′ 17″ E"
+    },
+    {
+      "height": "4165",
+      "name": "Breithorn occidental (point culminant)",
+      "range": "Alpes valaisannes",
+      "ascent": "13 août 1813 par Henry Maynard avec Joseph-Marie Couttet, Jean Gras, Jean-Baptiste et Jean-Jacques Erin31",
+      "location": "45° 56′ 28″ N, 7° 44′ 50″ E"
+    },
+    {
+      "height": "4160",
+      "name": "Breithorn central",
+      "range": "Alpes valaisannes",
+      "ascent": "19 juillet 1900 par E. Hahn et des compagnons36",
+      "location": "45° 56′ 19″ N, 7° 45′ 29″ E"
+    },
+    {
+      "height": "4158",
+      "name": "Jungfrau",
+      "range": "Alpes bernoises",
+      "ascent": "3 août 1811 par Rudolf et Hieronymus Meyer avec Joseph Bortis et Alois Volker31",
+      "location": "46° 32′ 13″ N, 7° 57′ 46″ E"
+    },
+    {
+      "height": "4153",
+      "name": "Bishorn",
+      "range": "Alpes valaisannes",
+      "ascent": "28 août 1884 par G. S. Barnes et R. Chessyre-Walker avec Josef Imboden et J.-M. Chanton33",
+      "location": "46° 07′ 04″ N, 7° 42′ 53″ E"
+    },
+    {
+      "height": "4141",
+      "name": "Combin de la Tsessette (Grand Combin)",
+      "range": "Alpes valaisannes",
+      "ascent": "21 juillet 1894 par E.F.M. Benecke et H.A. Cohen37",
+      "location": "45° 56′ 34″ N, 7° 18′ 39″ E"
+    },
+    {
+      "height": "4141",
+      "name": "Breithorn oriental",
+      "range": "Alpes valaisannes",
+      "ascent": "16 août 1884 par John Stafford Anderson avec Ulrich Almer et Aloys Pollinger (première traversée du Breithorn)36",
+      "location": "45° 56′ 13″ N, 7° 45′ 59″ E"
+    },
+    {
+      "height": "4122",
+      "name": "Aiguille Verte",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "29 juin 1865 par Edward Whymper avec Christian Almer et Franz Biner31",
+      "location": "45° 56′ 05″ N, 6° 58′ 12″ E"
+    },
+    {
+      "height": "4114",
+      "name": "L'Isolée des aiguilles du Diable (point culminant)",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "8 juillet 1925 par Armand Charlet et A. Ravanel31",
+      "location": "45° 51′ 19″ N, 6° 53′ 23″ E"
+    },
+    {
+      "height": "4112",
+      "name": "Aiguille Blanche de Peuterey",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "31 juillet 1885 par Henry Seymour King avec Émile Rey, Ambros Supersaxo et Alois Anthamatten31",
+      "location": "45° 49′ 24″ N, 6° 52′ 52″ E"
+    },
+    {
+      "height": "4110",
+      "name": "Pointe Croz des Grandes Jorasses",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "24 août 1909 (probablement) par Eleonore Hasenclever, Wilhelm Klemm, Felix Konig et Richard Weitzenboch38",
+      "location": "45° 52′ 09″ N, 6° 58′ 57″ E"
+    },
+    {
+      "height": "4109",
+      "name": "Pointe Carmen des aiguilles du Diable",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "13 août 1923 par H. Bregeault, Paul Chevalier et Jacques de Lépiney31",
+      "location": "45° 51′ 16″ N, 6° 53′ 30″ E"
+    },
+    {
+      "height": "4107",
+      "name": "Mönch",
+      "range": "Alpes bernoises",
+      "ascent": "15 août 1857 par Siegismund Porges avec Ulrich et Christian Kaufman et Christian Almer31",
+      "location": "46° 33′ 35″ N, 7° 59′ 54″ E"
+    },
+    {
+      "height": "4106",
+      "name": "Breithornzwillinge / Pointe 4106 (Breithorn)",
+      "range": "Alpes valaisannes",
+      "ascent": "16 août 1884 par John Stafford Anderson avec Ulrich Almer and Aloys Pollinger (première traversée du Breithorn)36",
+      "location": "45° 56′ 08″ N, 7° 46′ 15″ E"
+    },
+    {
+      "height": "4102",
+      "name": "Grande Rocheuse",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "17 septembre 1865 par Robert Fowler avec Michel Balmat et Michel Ducroz31",
+      "location": "45° 56′ 04″ N, 6° 58′ 22″ E"
+    },
+    {
+      "height": "4102",
+      "name": "Barre des Écrins",
+      "range": "Massif des Écrins",
+      "ascent": "25 juin 1864 par A. W. Moore, Horace Walker et Edward Whymper avec Christian Almer et Michel Croz31",
+      "location": "44° 55′ 23″ N, 6° 21′ 36″ E"
+    },
+    {
+      "height": "4097",
+      "name": "Pointe médiane des aiguilles du Diable",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "23 juillet 1926 par Émile-Robert Blanchet et J. Chaubert avec Armand Charlet31",
+      "location": "45° 51′ 16″ N, 6° 53′ 32″ E"
+    },
+    {
+      "height": "4092",
+      "name": "Pollux",
+      "range": "Alpes valaisannes",
+      "ascent": "1er août 1864 par J. Jacot avec Peter Taugwalder père et M.J. Perrin33",
+      "location": "45° 56′ 41″ N, 7° 47′ 06″ E"
+    },
+    {
+      "height": "4078",
+      "name": "Schreckhorn",
+      "range": "Alpes bernoises",
+      "ascent": "14 août 1861 par Leslie Stephen avec Peter Michel, Ulrich Kaufmann et Christian Michel31",
+      "location": "46° 35′ 20″ N, 8° 07′ 06″ E"
+    },
+    {
+      "height": "4075",
+      "name": "Roccia Nera (Breithorn)",
+      "range": "Alpes valaisannes",
+      "ascent": "16 août 1884 par John Stafford Anderson avec Ulrich Almer and Aloys Pollinger (première traversée du Breithorn)36",
+      "location": "45° 55′ 57″ N, 7° 46′ 29″ E"
+    },
+    {
+      "height": "4074",
+      "name": "Pointe Chaubert des aiguilles du Diable",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "1er septembre 1925 par Jean Chaubert avec Armand Charlet et A. Ravanel37",
+      "location": "45° 51′ 16″ N, 6° 53′ 34″ E"
+    },
+    {
+      "height": "4069",
+      "name": "Mont Brouillard",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "11 juillet 1906 par Karl Blodig et Oscar Eckenstein avec Alexis Brocherel39",
+      "location": "45° 49′ 03″ N, 6° 51′ 54″ E"
+    },
+    {
+      "height": "4065",
+      "name": "Pointe Marguerite des Grandes Jorasses",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "22 août 1898 par Louis-Amédée de Savoie avec G. Petigax, Laurent Croux, F. Ollier40",
+      "location": "45° 52′ 07″ N, 6° 58′ 39″ E"
+    },
+    {
+      "height": "4064",
+      "name": "Corne du Diable des aiguilles du Diable",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "1er septembre 1925 par Jean Chaubert avec Armand Charlet et A. Ravanel37",
+      "location": "45° 51′ 16″ N, 6° 53′ 35″ E"
+    },
+    {
+      "height": "4063",
+      "name": "Ober Gabelhorn",
+      "range": "Alpes valaisannes",
+      "ascent": "6 juillet 1865 par A. W. Moore, Horace Walker avec Jakob Anderegg31",
+      "location": "46° 02′ 19″ N, 7° 40′ 05″ E"
+    },
+    {
+      "height": "4061",
+      "name": "Grand Paradis",
+      "range": "Massif du Grand Paradis",
+      "ascent": "4 septembre 1860 par John Jermyn Cowell et W. Dundas avec Michel-Ambroise Payot et Jean Tairraz31",
+      "location": "45° 31′ 20″ N, 7° 15′ 45″ E"
+    },
+    {
+      "height": "4052",
+      "name": "Aiguille de Bionnassay",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "28 juillet 1865 par E. N. Buxton, F. C. Grove et R. J. S. MacDonald avec Jean-Pierre Cachat et Michel-Ambroise Payot31",
+      "location": "45° 50′ 09″ N, 6° 49′ 09″ E"
+    },
+    {
+      "height": "4049",
+      "name": "Piz Bernina",
+      "range": "Chaîne de la Bernina",
+      "ascent": "13 septembre 1850 par Johann Coaz avec Jon et Lorenz Ragut Tscharner31",
+      "location": "46° 22′ 57″ N, 9° 54′ 29″ E"
+    },
+    {
+      "height": "4049",
+      "name": "Gross Fiescherhorn",
+      "range": "Alpes bernoises",
+      "ascent": "23 juillet 1862 par H.B. George et Adolphus Warburton Moore avec Christian Almer et Ulrich Kaufmann31",
+      "location": "46° 33′ 05″ N, 8° 03′ 41″ E"
+    },
+    {
+      "height": "4046",
+      "name": "Pointe Giordani (mont Rose)",
+      "range": "Alpes valaisannes",
+      "ascent": "23 juillet 1801 par Pietro Giordani et des compagnons41",
+      "location": "45° 54′ 21″ N, 7° 05′ 41″ E"
+    },
+    {
+      "height": "4045",
+      "name": "Pointe Hélène des Grandes Jorasses",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "22 août 1898 par Louis-Amédée de Savoie avec G. Petigax, L. Croux, F. Ollier40",
+      "location": "45° 52′ 07″ N, 6° 58′ 48″ E"
+    },
+    {
+      "height": "4043",
+      "name": "Gross Grunhorn",
+      "range": "Alpes bernoises",
+      "ascent": "7 août 1865 par Edmund von Fellenberg avec Peter Michel, Peter Egger et Peter Inäbnit37",
+      "location": "46° 31′ 55″ N, 8° 04′ 39″ E"
+    },
+    {
+      "height": "4042",
+      "name": "Lauteraarhorn",
+      "range": "Alpes bernoises",
+      "ascent": "8 août 1842 par Pierre Jean Édouard Desor, Christian Girard, Louis Agassiz et Arnold Escher von der Linth avec Melchior Bannholzer, Jakob Leuthold, D. Brigger, Fahner, Johann Madutz37",
+      "location": "46° 35′ 00″ N, 8° 07′ 41″ E"
+    },
+    {
+      "height": "4035",
+      "name": "Dürrenhorn",
+      "range": "Alpes valaisannes",
+      "ascent": "7 août 1879 par Albert F. Mummery et William Penhall, avec Alexandre Burgener et Ferdinand Imseng33",
+      "location": "46° 07′ 11″ N, 7° 50′ 53″ E"
+    },
+    {
+      "height": "4035",
+      "name": "Aiguille du Jardin",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "1er août 1904 par Émile Fontaine avec Joseph Ravanel et Léon Tournier42",
+      "location": "45° 56′ 02″ N, 6° 58′ 33″ E"
+    },
+    {
+      "height": "4027",
+      "name": "Allalinhorn",
+      "range": "Alpes valaisannes",
+      "ascent": "28 août 1856 par Edvard Levi Ames et Johann Joseph Imseng avec Franz Andenmatten43",
+      "location": "46° 02′ 46″ N, 7° 53′ 42″ E"
+    },
+    {
+      "height": "4025",
+      "name": "Hinter Fiescherhorn",
+      "range": "Alpes bernoises",
+      "ascent": "28 juillet 1885 par Eugen Guido Lammer et August Lorria (le sommet inférieur (3 990 m) avait été gravi le 10 août 1871 par F. Bischoff avec Peter Bohren, P. Egger44",
+      "location": "46° 32′ 47″ N, 8° 04′ 04″ E"
+    },
+    {
+      "height": "4023",
+      "name": "Weissmies",
+      "range": "Alpes valaisannes",
+      "ascent": "août 1855 par Jakob Christian Häuser et Peter Josef Zurbrigenn31",
+      "location": "46° 07′ 40″ N, 8° 00′ 43″ E"
+    },
+    {
+      "height": "4015",
+      "name": "Dôme de neige des Écrins",
+      "range": "Massif des Écrins",
+      "ascent": "21 juillet 1877 par Emmanuel Boileau de Castelnau avec Pierre Gaspard31",
+      "location": "44° 55′ 28″ N, 6° 21′ 14″ E"
+    },
+    {
+      "height": "4015",
+      "name": "Dôme de Rochefort",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "12 août 1881 par James Eccles avec Alphonse Payot et Michel-Clément Payot37",
+      "location": "45° 51′ 51″ N, 6° 58′ 03″ E"
+    },
+    {
+      "height": "4014",
+      "name": "Dent du Géant",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "14 août 1882 par William Woodman Graham avec Auguste Cupelin et Alphonse Payot (le 28 juillet 1882 Jean-Joseph Maquignaz, Baptiste Maquignaz et Daniel Maquignaz avaient atteint la pointe Sella, 4 009 m31)",
+      "location": "45° 51′ 43″ N, 6° 57′ 06″ E"
+    },
+    {
+      "height": "4013",
+      "name": "Pointe Baretti",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "20 juillet 1880 par Martino Baretti avec Jean-Joseph Maquignaz37",
+      "location": "45° 48′ 52″ N, 6° 51′ 48″ E"
+    },
+    {
+      "height": "4010",
+      "name": "Lagginhorn",
+      "range": "Alpes valaisannes",
+      "ascent": "26 août 1856 par Edvard Levi Ames, Johann Josef Imseng et trois anglais, avec Franz Andenmatten et trois autres guides33",
+      "location": "46° 09′ 26″ N, 8° 00′ 11″ E"
+    },
+    {
+      "height": "4001",
+      "name": "Aiguille de Rochefort",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "14 août 1873 par James Eccles avec Alphonse Payot et Michel-Clément Payot32",
+      "location": "45° 51′ 43″ N, 6° 57′ 36″ E"
+    },
+    {
+      "height": "4000",
+      "name": "Les Droites",
+      "range": "Massif du Mont-Blanc",
+      "ascent": "7 août 1876 par Thomas Middlemore, John Oakley Maund et Henri Cordier avec Johann Jaun et Andreas Maurer31",
+      "location": "45° 55′ 49″ N, 6° 59′ 21″ E"
+    }
+  ]
+}
