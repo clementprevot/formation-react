@@ -1,14 +1,14 @@
-/* globals mofafegoli */
-// eslint-disable-next-line no-shadow
-(function IIFE({ Component, createElement: h }, ReactDOM, mofafegoli) {
+(function UMD(rootScope, factory) {
+    if (typeof exports === 'object') {
+        module.exports = factory;
+    } else {
+        window.createApp = factory;
+    }
+})(this, function IIFE({ Component, createElement: h }) {
     function createColumns({ isHeader, firstCellValue, query, rowIndex, vowels, convert }) {
         const el = (isHeader) ? 'th' : 'td';
 
-        const columns = [h('th', {
-            key: 0,
-        }, firstCellValue)];
-
-        vowels.forEach((vowel, index) => {
+        const columns = vowels.map((vowel, index) => {
             const value = (isNaN(query)) ? convert(query) : query;
 
             let numberString = String(value);
@@ -25,11 +25,15 @@
 
             const cellValue = (index + (rowIndex * vowels.length));
 
-            columns.push(h(el, {
+            return h(el, {
                 className: (numbers.includes(cellValue)) ? 'on' : '',
                 key: vowel + '-' + index,
-            }, (isHeader) ? vowel : cellValue));
+            }, (isHeader) ? vowel : cellValue);
         });
+
+        columns.unshift(h('th', {
+            key: 0,
+        }, firstCellValue));
 
         return columns;
     }
@@ -43,22 +47,26 @@
     }
 
     function Tbody(props) {
-        const rows = [];
-        props.consonants.forEach((consonant, index) => {
-            rows.push(h('tr', {
-                key: consonant + '-' + index,
-            }, createColumns(Object.assign({}, props, {
-                firstCellValue: consonant,
-                isHeader: false,
-                rowIndex: index,
-            }))));
-        });
+        const rows = props.consonants.map((consonant, index) => h('tr', {
+            key: consonant + '-' + index,
+        }, createColumns(Object.assign({}, props, {
+            firstCellValue: consonant,
+            isHeader: false,
+            rowIndex: index,
+        }))));
 
         return h('tbody', {}, rows);
     }
 
     function Table(props) {
-        return h('table', {}, h(Thead, props), h(Tbody, props));
+        // return h('table', {}, h(Thead, props), h(Tbody, props));
+
+        return (
+            <table>
+                <Thead props={props} />
+                <Tbody props={props} />
+            </table>
+        );
     }
 
     function Form({ handleChange, query, convert }) {
@@ -102,6 +110,5 @@
         }
     }
 
-    // Bootstrapping the application.
-    ReactDOM.render(h(App, mofafegoli), document.getElementById('root'));
-})(React, ReactDOM, mofafegoli);
+    return App;
+});
